@@ -43,3 +43,10 @@ def solution(id_list, report, k):
         answer.append(mail.count(i))
         
     return answer
+
+'''
+참고
+https://blockdmask.tistory.com/469
+https://velog.io/@daybreak/Python%EC%97%90%EC%84%9C-%EB%A6%AC%EC%8A%A4%ED%8A%B8-%EC%A4%91%EB%B3%B5%EC%A0%9C%EA%B1%B0
+https://www.delftstack.com/ko/howto/python/find-all-indices-of-element-in-list-python/
+'''
