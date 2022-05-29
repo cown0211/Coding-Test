@@ -1,2 +1,2 @@
-# Coding-Test
+# CodingTest
 코테연습
