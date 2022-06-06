@@ -13,3 +13,7 @@ def solution(s):
     answer = re.sub("zero", "0", answer)
     answer = int(answer)
     return answer
+
+'''
+https://programmers.co.kr/learn/courses/30/lessons/81301/solution_groups?language=python3
+'''
